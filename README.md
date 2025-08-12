@@ -20,7 +20,10 @@ By leveraging blockchain technology, students control their own data and can pro
 - **Profile Search & Filtering** – Search students by skills, location, or achievements.
 
 ## 5. Contract Address
-*(To be deployed – Replace after deployment)*  
-`SPXXXXXX....XXXX` (Stacks Blockchain contract address)
+
+`ST4KSMSG996PW4E8B14673Y86CQ5ZHWRB88ZAPTC.decentralized-linkedin-for-students` (Stacks Blockchain contract address)
+
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1b16c588-8d36-4fcd-9850-26418baf40cc" />
 
 ---
